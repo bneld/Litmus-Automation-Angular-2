@@ -1,0 +1,22 @@
+{
+  "name": "electron-app",
+  "description": "",
+  "main": "main.js",
+  "authors": [
+    "Brian Neldon <brian.neldon@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/akveo/ng2-admin",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ng2-charts": "^1.5.0",
+    "chart.js": "^2.5.0"
+  }
+}
