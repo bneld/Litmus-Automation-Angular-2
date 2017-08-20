@@ -1,1 +1,1 @@
-"# My project's README" 
+# An exploration of Angular 2
